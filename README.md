@@ -1,4 +1,4 @@
-### Ross Peili // AI Eng. // Organic processor, working for the machine.
+### Ross Peili // Organic processor, working for the machine.
 
 Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA CORP.](https://arpacorp.net), where we're engineering seamless man-machine interactions.
 
@@ -8,10 +8,10 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 
 * **[ARPA CORP.](https://arpacorp.net):** Leading R&D for custom AI models and agentic workflows for clients in Europe.
 * **[arpa.chat](https://arpa.chat):** Launched the first major B2C AI agent interface in Greece.
-* **iDataRoom:** Developing a sophisticated AI suite for a Luxembourg-based compliance platform. This includes:
+* **[iDataRoom:](https://idataroom.com)** Developing a sophisticated AI suite for a Luxembourg-based compliance platform. This includes:
     * Document classification and verification models to detect tampering and AI-generated fakes.
     * Secure agentic systems for KYC/KYB workflows.
-* **Internal R&D:** Experimenting with models for DNA analysis, video generation, and other emerging domains.
+* **Internal R&D:** Experimenting with models for DNA analysis, Quantum Computing, XR, Media Gen, and other emerging domains.
 
 ---
 
@@ -48,4 +48,4 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **Programming:** Python 3 (Codecademy)
 * **Neuroscience:** The Brain & Space (Duke University)
 * **Project Management:** (Google)
-* *Continuous studies in AI, Bioinformatics, and Quantum Info from institutions including Stanford, MIT, and KAIST.*
+* *Continuous studies in AI, Bioinformatics, and Quantum Info from institutions including Stanford, MIT, and KAIST. See all at [ζω.online](https://ζω.online)*
