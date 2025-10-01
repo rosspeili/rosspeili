@@ -15,38 +15,15 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 
 ---
 
-💻 **Core Tech Stack**
+💻 **Core Technical Stack & Specializations**
 
-| Languages | Cloud / Infra | Frameworks/DB | Specializations     |
-| :-------- | :------------ | :------------ | :------------------ |
-| Python    | GCP           | React         | AI / ML / RL        |
-| JS/TS     | Docker        | Node          | Blockchain / Web3   |
-| SQL       | Firebase      |               | Bioinformatics      |
-|           | IBM, Xanadu   |               | Quantum Computing   |
-
----
-
-### **Core Technical Stack**
-
-| Category | Technologies, Libraries & Frameworks |
+| Category | Technologies, Frameworks & Specializations |
 | :--- | :--- |
 | **Languages & Frontend** | `Python`, `JavaScript/TypeScript`, `SQL`, `Node.js`, `React`, `Vite`, `Shell` |
 | **Cloud, Platforms & Infra** | **GCP** (Firestore, Storage, Secret Manager), **Firebase**, **Docker**, **PostgreSQL**, **ChromaDB**, **IBM Cloud** & **Qiskit**, **Xanadu AI**, **AlphaFold**, **DeepMind** |
 | **Core AI, Data & Web3** | **PyTorch**, **Transformers**, **Diffusers**, **Accelerate**, **FastAPI**, **web3.py**, **Ethers.js**, **Pandas**, **NumPy**, **OpenCV**, **Pillow**, **Face Recognition**, **DeepFace** |
 | **Supporting Stack** | **Bioinformatics**: BioPython, ViennaRNA <br> **Document Processing**: PyPDF2, python-docx, BS4, PyTesseract <br> **Audio & Voice**: Librosa, TorchAudio, pyttsx3, Google Speech <br> **Payments & Web**: Stripe, aiohttp, WebSockets |
-
----
-
-### **Areas of Specialization**
-
-* **AI / ML / RL**
-* **Full-Stack Development**
-* **Blockchain / Web3**
-* **Bioinformatics / Genomics**
-* **Quantum Computing**
-* **Neurotechnology**
-* **Sonic Sciences**
-* **3D / XR**
+| **Areas of Specialization** | `AI / ML / RL`, `Full-Stack Development`, `Blockchain / Web3`, `Bioinformatics / Genomics`, `Quantum Computing`, `Neurotechnology`, `Sonic Sciences`, `3D / XR` |
 
 🚀 **Background**
 
