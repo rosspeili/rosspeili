@@ -68,9 +68,3 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **Mirror:** [Weekly spools of Lvl. 99 Raid Ross 🐉- Issue #6: Byte](https://mirror.xyz/rosspeili.eth/SVJJyd417qBL5qZhhITStk4C4stEmfSM1a03Kz2pXAk) (2022)
 
 ---
-
-🎥 **Latest Appearance**
-
-* **ΑΠΟ ΠΙΣΩ Podcast:**
-
-  [![ΑΠΟ ΠΙΣΩ Podcast](https://img.youtube.com/vi/etmQEih9nTU/hqdefault.jpg)](https://www.youtube.com/watch?v=etmQEih9nTU)
