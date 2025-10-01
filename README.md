@@ -59,7 +59,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **LinkedIn:** [Navigating KYC/KYB and Compliance in the Era of Advanced Cyber Threats](https://www.linkedin.com/pulse/navigating-kyckyb-compliance-era-advanced-cyber-threats-idataroom-bwsff/?trackingId=n9WdHkImSHyLIl7QXf%2Fszw%3D%3D) (2025)
 * **Substack:** [A Beginner's Research Guide to Architecting Your First AI Agent](https://arpacorp.substack.com/p/a-beginners-research-guide-to-architecting) (2025)
 * **Substack:** [Reinventing Identity For a Post-Human World](https://arpacorp.substack.com/p/reinventing-identity-for-a-post-human) (2025)
-* * **Mirror:** [Exploring "Clarity Windows" in AI: The Unpredictable Moments of Perceived Consciousness](https://mirror.xyz/rosspeili.eth/zzkU-aBkUQgVexXcUFCV9jzW0gQNzEHrUceUWnBnFkQ) (2024)
+* **Mirror:** [Exploring "Clarity Windows" in AI: The Unpredictable Moments of Perceived Consciousness](https://mirror.xyz/rosspeili.eth/zzkU-aBkUQgVexXcUFCV9jzW0gQNzEHrUceUWnBnFkQ) (2024)
 * **Substack:** [From Brick-and-Mortar to Bits: The Journey to RWA Tokenization](https://rosspeili.substack.com/p/from-brick-and-mortar-to-bits-the) (2024)
 * **Substack:** [AR: Next Frontier For Ad-Tech, or Parodic Hype](https://rosspeili.substack.com/p/ar-next-frontier-for-ad-tech-or-parodic) (2024)
 * **Notion:** [Security in Web3 (OE Industry Report)](https://onether.notion.site/Security-in-the-Web3-Era-e516068bf9724047b2a3e0d75eaaefb9) (2024)
