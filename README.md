@@ -26,6 +26,28 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 
 ---
 
+### **Core Technical Stack**
+
+| Category | Technologies, Libraries & Frameworks |
+| :--- | :--- |
+| **Languages & Frontend** | `Python`, `JavaScript/TypeScript`, `SQL`, `Node.js`, `React`, `Vite`, `Shell` |
+| **Cloud, Platforms & Infra** | **GCP** (Firestore, Storage, Secret Manager), **Firebase**, **Docker**, **PostgreSQL**, **ChromaDB**, **IBM Cloud** & **Qiskit**, **Xanadu AI**, **AlphaFold**, **DeepMind** |
+| **Core AI, Data & Web3** | **PyTorch**, **Transformers**, **Diffusers**, **Accelerate**, **FastAPI**, **web3.py**, **Ethers.js**, **Pandas**, **NumPy**, **OpenCV**, **Pillow**, **Face Recognition**, **DeepFace** |
+| **Supporting Stack** | **Bioinformatics**: BioPython, ViennaRNA <br> **Document Processing**: PyPDF2, python-docx, BS4, PyTesseract <br> **Audio & Voice**: Librosa, TorchAudio, pyttsx3, Google Speech <br> **Payments & Web**: Stripe, aiohttp, WebSockets |
+
+---
+
+### **Areas of Specialization**
+
+* **AI / ML / RL**
+* **Full-Stack Development**
+* **Blockchain / Web3**
+* **Bioinformatics / Genomics**
+* **Quantum Computing**
+* **Neurotechnology**
+* **Sonic Sciences**
+* **3D / XR**
+
 🚀 **Background**
 
 A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology.
