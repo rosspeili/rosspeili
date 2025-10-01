@@ -50,3 +50,19 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **Neuroscience:** The Brain & Space (Duke University)
 * **Project Management:** (Google)
 * *Continuous studies in AI, Bioinformatics, and Quantum Info from institutions including Stanford, MIT, and KAIST. See all at [ζω.online](https://ζω.online)*
+
+---
+
+✍️ **Publications & Writing**
+
+* **HackerNoon:** [Gemini Might Be the ONLY Actual Foundational Model Out There](https://hackernoon.com/gemini-might-be-the-only-actual-foundational-model-out-there) (2025)
+* **LinkedIn:** [Navigating KYC/KYB and Compliance in the Era of Advanced Cyber Threats](https://www.linkedin.com/pulse/navigating-kyckyb-compliance-era-advanced-cyber-threats-idataroom-bwsff/?trackingId=n9WdHkImSHyLIl7QXf%2Fszw%3D%3D) (2025)
+* **Substack:** [A Beginner's Research Guide to Architecting Your First AI Agent](https://arpacorp.substack.com/p/a-beginners-research-guide-to-architecting) (2025)
+* **Substack:** [Reinventing Identity For a Post-Human World](https://arpacorp.substack.com/p/reinventing-identity-for-a-post-human) (2025)
+* * **Mirror:** [Exploring "Clarity Windows" in AI: The Unpredictable Moments of Perceived Consciousness](https://mirror.xyz/rosspeili.eth/zzkU-aBkUQgVexXcUFCV9jzW0gQNzEHrUceUWnBnFkQ) (2024)
+* **Substack:** [From Brick-and-Mortar to Bits: The Journey to RWA Tokenization](https://rosspeili.substack.com/p/from-brick-and-mortar-to-bits-the) (2024)
+* **Substack:** [AR: Next Frontier For Ad-Tech, or Parodic Hype](https://rosspeili.substack.com/p/ar-next-frontier-for-ad-tech-or-parodic) (2024)
+* **Notion:** [Security in Web3 (OE Industry Report)](https://onether.notion.site/Security-in-the-Web3-Era-e516068bf9724047b2a3e0d75eaaefb9) (2024)
+* **Hackernoon:** [Greek Syntax & Propositional Logic: In Philosophy, Math, CS & Beyond](https://hackernoon.com/greek-syntax-and-propositional-logic-in-philosophy-math-cs-and-beyond) (2023)
+* **Medium:** [Music Industry Gets A Revamp Thanks To The Pandemic](https://medium.com/rc3-academy/music-industry-gets-a-revamp-thanks-to-the-pandemic-e1b728b2ac2a) (2022)
+* **Mirror:** [Weekly spools of Lvl. 99 Raid Ross 🐉- Issue #6: Byte](https://mirror.xyz/rosspeili.eth/SVJJyd417qBL5qZhhITStk4C4stEmfSM1a03Kz2pXAk) (2022)
