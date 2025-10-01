@@ -9,7 +9,7 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 * **[ARPA CORP.](https://github.com/arpahls):** Leading R&D for custom AI models and agentic workflows for EU enterprises.
 * **[ΌΨΗ](https://github.com/arpahls/opsie):** A Self-Centered Intelligence prototype.
 * **[arpa.chat](https://arpa.chat):** The first major B2C AI agent interface in Greece.
-* **[iDataRoom:](https://idataroom.com)** Developing a sophisticated AI suite for a Luxembourg-based compliance platform.
+* **[iDataRoom](https://idataroom.com):** Developing a sophisticated AI suite for a Luxembourg-based compliance platform.
 
 * **Internal R&D:** Experimenting with models for DNA analysis, Quantum Computing, XR, Media Gen, and other emerging domains.
 
