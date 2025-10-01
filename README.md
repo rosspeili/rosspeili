@@ -72,4 +72,5 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 🎥 **Latest Appearance**
 
 * **ΑΠΟ ΠΙΣΩ Podcast:**
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/etmQEih9nTU?si=PZx2KP5X6N4XPQ5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  [![ΑΠΟ ΠΙΣΩ Podcast](https://img.youtube.com/vi/etmQEih9nTU/hqdefault.jpg)](https://www.youtube.com/watch?v=etmQEih9nTU)
