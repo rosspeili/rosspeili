@@ -66,3 +66,10 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **Hackernoon:** [Greek Syntax & Propositional Logic: In Philosophy, Math, CS & Beyond](https://hackernoon.com/greek-syntax-and-propositional-logic-in-philosophy-math-cs-and-beyond) (2023)
 * **Medium:** [Music Industry Gets A Revamp Thanks To The Pandemic](https://medium.com/rc3-academy/music-industry-gets-a-revamp-thanks-to-the-pandemic-e1b728b2ac2a) (2022)
 * **Mirror:** [Weekly spools of Lvl. 99 Raid Ross 🐉- Issue #6: Byte](https://mirror.xyz/rosspeili.eth/SVJJyd417qBL5qZhhITStk4C4stEmfSM1a03Kz2pXAk) (2022)
+
+---
+
+🎥 **Latest Appearance**
+
+* **ΑΠΟ ΠΙΣΩ Podcast:**
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/etmQEih9nTU?si=PZx2KP5X6N4XPQ5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
