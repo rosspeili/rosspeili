@@ -29,7 +29,7 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 
 🚀 **Background**
 
-A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology.
+A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology. Self-taught AI dev with over 20+ models built and sold to enterprises.
 
 ---
 
@@ -45,10 +45,10 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 🎓 **Certifications & Learning**
 
-* **AI/Quantum:** QHack 2023 (Pennylane AI)
-* **Programming:** Python 3 (Codecademy)
-* **Neuroscience:** The Brain & Space (Duke University)
-* **Project Management:** (Google)
+* **AI/Quantum:** QHack 2023 (Pennylane AI), Quantum Informatics (KAIST), Propositional Logic (University of Jerusalem), AI/ML Courses (Stanford, MIT, Google, Codecademy), and more.
+* **Programming:** Python 3, SQL, Full-Stack Dev, Business Intelligence, Data Analytics, Data Visualization, and more (Codecademy, Coursera)
+* **Neuroscience:** The Brain & Space (Duke University), Sonic Warfare, and more.
+* **Project Management:** Google Project Management, Agile, Kanban, Scrum, and more.
 * *Continuous studies in AI, Bioinformatics, and Quantum Info from institutions including Stanford, MIT, and KAIST. See all at [ζω.online](https://ζω.online)*
 
 ---
