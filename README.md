@@ -55,6 +55,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 ✍️ **Publications & Writing**
 
+* **Paragraph:** [AI Benchmarks: Useless, Personalized Agents Prevail](https://paragraph.com/@arpacorp/ai-benchmarks-useless-personalized-agents-prevail) (2025)
 * **HackerNoon:** [Gemini Might Be the ONLY Actual Foundational Model Out There](https://hackernoon.com/gemini-might-be-the-only-actual-foundational-model-out-there) (2025)
 * **LinkedIn:** [Navigating KYC/KYB and Compliance in the Era of Advanced Cyber Threats](https://www.linkedin.com/pulse/navigating-kyckyb-compliance-era-advanced-cyber-threats-idataroom-bwsff/?trackingId=n9WdHkImSHyLIl7QXf%2Fszw%3D%3D) (2025)
 * **Substack:** [A Beginner's Research Guide to Architecting Your First AI Agent](https://arpacorp.substack.com/p/a-beginners-research-guide-to-architecting) (2025)
