@@ -55,6 +55,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 ✍️ **Publications & Writing**
 
+* **Hackernoon:** [How Generative AI Gives Newcomers an Edge Over Experts](https://hackernoon.com/how-generative-ai-gives-newcomers-an-edge-over-experts) (2025)
 * **Paragraph:** [AI Benchmarks: Useless, Personalized Agents Prevail](https://paragraph.com/@arpacorp/ai-benchmarks-useless-personalized-agents-prevail) (2025)
 * **HackerNoon:** [Gemini Might Be the ONLY Actual Foundational Model Out There](https://hackernoon.com/gemini-might-be-the-only-actual-foundational-model-out-there) (2025)
 * **LinkedIn:** [Navigating KYC/KYB and Compliance in the Era of Advanced Cyber Threats](https://www.linkedin.com/pulse/navigating-kyckyb-compliance-era-advanced-cyber-threats-idataroom-bwsff/?trackingId=n9WdHkImSHyLIl7QXf%2Fszw%3D%3D) (2025)
