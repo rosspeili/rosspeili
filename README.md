@@ -8,6 +8,7 @@ Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA C
 
 * **[ARPA CORP.](https://github.com/arpahls):** Building the rails for the intersection of man and machine.
 * **[ΌΨΗ](https://github.com/arpahls/opsie):** A Self-Centered Intelligence prototype.
+* **[H3](https://github.com/arpahls/hermes3):** Advanced Web3 Handler via NLP.
 * **[arpa.chat](https://arpa.chat):** The first and major B2C AI ecosystem in Greece.
 * **[iDataRoom](https://idataroom.com):** A sophisticated AI suite for automated compliance.
 
