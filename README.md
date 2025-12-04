@@ -56,6 +56,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 ✍️ **Publications & Writing**
 
+* **Zenodo/CERN:** [The Edible Interface: How Mass-Market Foods Became Sophisticated Delivery Systems for Biological Influence](https://zenodo.org/records/17815937) (2025)
 * **Zenodo/CERN:** [Cognitive Proof of Work and the Real Price of Machine Intelligence](https://doi.org/10.5281/zenodo.17674503) (2025)
 * **Hackernoon:** [How Generative AI Gives Newcomers an Edge Over Experts](https://hackernoon.com/how-generative-ai-gives-newcomers-an-edge-over-experts) (2025)
 * **Paragraph:** [AI Benchmarks: Useless, Personalized Agents Prevail](https://paragraph.com/@arpacorp/ai-benchmarks-useless-personalized-agents-prevail) (2025)
