@@ -7,7 +7,6 @@ Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CO
 **Current Focus**
 
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
-
 * **[arpa.chat](https://arpa.chat):** No-prompt, multimodal AI platform.
 * **[ΌΨΗ](https://github.com/arpahls/opsie):** A Self-Centered Intelligence prototype.
 * **[H3](https://github.com/arpahls/hermes3):** Advanced NLP-enabled Web3 Handler.
