@@ -1,40 +1,40 @@
 ### Ross Peili // Organic processor, working for the machine.
 
-Building at the intersection of AI, Web3, and Bioinformatics. Founder at [ARPA CORP.](https://arpacorp.net), where we're engineering seamless man-machine interactions.
+Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CORP.](https://arpacorp.net), where we strive for seamless man-machine interactions.
 
 ---
 
-🔭 **Current Focus**
+**Current Focus**
 
-* **[ARPA CORP.](https://github.com/arpahls):** Building the rails for the intersection of man and machine.
-* **[arpa.chat](https://arpa.chat):** Real, dynamically evolving relationships.
+* **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
+
+* **[arpa.chat](https://arpa.chat):** No-prompt, multimodal AI platform.
 * **[ΌΨΗ](https://github.com/arpahls/opsie):** A Self-Centered Intelligence prototype.
-* **[H3](https://github.com/arpahls/hermes3):** Advanced Web3 Handler via NLP.
-* **[iDataRoom](https://idataroom.com):** A sophisticated AI suite for automated compliance.
+* **[H3](https://github.com/arpahls/hermes3):** Advanced NLP-enabled Web3 Handler.
 
 **Internal R&D:** Experimenting with models for DNA analysis, Quantum Computing, XR, Media Gen, and other emerging domains.
 
 ---
 
-💻 **Core Technical Stack & Specializations**
+**Core Technical Stack & Specializations**
 
 | Category | Technologies, Frameworks & Specializations |
 | :--- | :--- |
 | **Core Dev** | `Python`, `JavaScript/TypeScript`, `SQL`, `Node.js`, `React`, `Vite`, `Shell`, `Arduino`  + |
 | **Cloud, Platforms & Infra** | **GCP**, **Firebase**, **Docker**, **PostgreSQL**, **ChromaDB**, **IBM Cloud** & **Qiskit**, **Xanadu AI**, **AlphaFold**, **DeepMind** + |
-| **Core Frame/Lib** | **PyTorch**, **Transformers**, **Diffusers**, **Accelerate**, **FastAPI**, **web3.py**, **Ethers.js**, **Pandas**, **NumPy**, **OpenCV**, **Pillow**, **Face Recognition**, **DeepFace** + |
+| **Core Frame/Lib** | **PyTorch**, **Transformers**, **Diffusers**, **Accelerate**, **FastAPI**, **web3.py**, **Ethers.js**, **Pandas**, **NumPy**, **OpenCV**, **Pillow**, **Face Recognition**, **DeepFace**, **Tailwind CSS** + |
 | **Supporting Stack** | **Bioinformatics**: BioPython, ViennaRNA + <br> **Document Processing**: PyPDF2, python-docx, BS4, PyTesseract + <br> **Audio & Voice**: Librosa, TorchAudio, pyttsx3, Google Speech + <br> **Payments & Web**: Stripe, aiohttp, WebSockets + |
 | **Areas of Specialization** | `AI / ML / RL`, `Full-Stack Development`, `Blockchain / Web3`, `Bioinformatics / Genomics`, `Quantum Computing`, `Neurotechnology`, `Sonic Sciences`, `3D / XR` + |
 
 ---
 
-🚀 **Background**
+**Background**
 
 A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology. Self-taught AI dev with over 20+ models built and sold to enterprises.
 
 ---
 
-📫 **Collaboration & Inquiries**
+**Collaboration & Inquiries**
 
 My door is open for compelling gigs, open-source contributions, and joint projects. If you're interested in any of my private repositories, I'm happy to grant access—just reach out and explain your interest.
 
@@ -44,7 +44,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 ---
 
-🎓 **Certifications & Learning**
+**Certifications & Learning**
 
 * **AI/Quantum:** QHack 2023 (Pennylane AI), Quantum Informatics (KAIST), Propositional Logic (University of Jerusalem), AI/ML Courses (Stanford, MIT, Google, Codecademy), and more.
 * **Programming:** Python 3, SQL, Full-Stack Dev, Business Intelligence, Data Analytics, Data Visualization, and more (Codecademy, Coursera)
@@ -54,7 +54,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 ---
 
-✍️ **Publications & Writing**
+**Publications & Writing**
 
 * **Zenodo/CERN:** [The Edible Interface: How Mass-Market Foods Became Sophisticated Delivery Systems for Biological Influence](https://zenodo.org/records/17815937) (2025)
 * **Zenodo/CERN:** [Cognitive Proof of Work and the Real Price of Machine Intelligence](https://doi.org/10.5281/zenodo.17674503) (2025)
