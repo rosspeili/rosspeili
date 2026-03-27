@@ -27,7 +27,7 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 * **Email:** [R1@ARPACORP.NET](mailto:R1@ARPACORP.NET)
 * **LinkedIn:** [/in/ross-peili](https://linkedin.com/in/ross-peili)
-* **Website:** [ζω.online](https://ζω.online)
+* **Website:** [ζω.online](http://ζω.online)
 
 ---
 
