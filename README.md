@@ -17,18 +17,6 @@ Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CO
 
 ---
 
-**Core Technical Stack & Specializations**
-
-| Category | Technologies, Frameworks & Specializations |
-| :--- | :--- |
-| **Core Dev** | `Python`, `JavaScript/TypeScript`, `SQL`, `Node.js`, `React`, `Vite`, `Shell`, `Arduino`  + |
-| **Cloud, Platforms & Infra** | **GCP**, **Firebase**, **Docker**, **PostgreSQL**, **ChromaDB**, **IBM Cloud** & **Qiskit**, **Xanadu AI**, **AlphaFold**, **DeepMind** + |
-| **Core Frame/Lib** | **PyTorch**, **Transformers**, **Diffusers**, **Accelerate**, **FastAPI**, **web3.py**, **Ethers.js**, **Pandas**, **NumPy**, **OpenCV**, **Pillow**, **Face Recognition**, **DeepFace**, **Tailwind CSS** + |
-| **Supporting Stack** | **Bioinformatics**: BioPython, ViennaRNA + <br> **Document Processing**: PyPDF2, python-docx, BS4, PyTesseract + <br> **Audio & Voice**: Librosa, TorchAudio, pyttsx3, Google Speech + <br> **Payments & Web**: Stripe, aiohttp, WebSockets + |
-| **Areas of Specialization** | `AI / ML / RL`, `Full-Stack Development`, `Blockchain / Web3`, `Bioinformatics / Genomics`, `Quantum Computing`, `Neurotechnology`, `Sonic Sciences`, `3D / XR` + |
-
----
-
 **Background**
 
 A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology. Self-taught AI dev with over 20+ models built and sold to enterprises.
@@ -57,6 +45,15 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 **Publications & Writing**
 
+
+* **Substack:** [Defending the human timeline against the entropy of a synthetic era](https://arpacorp.substack.com/p/defending-the-human-timeline-against) (2026)
+* **Substack:** [The Failure of the Narrative Economy and the Ascent of Global Utility-Based Systems](https://arpacorp.substack.com/p/the-failure-of-the-narrative-economy) (2026)
+* **Substack:** [If Your AI Can’t Hate You, It Can’t Truly Help You](https://arpacorp.substack.com/p/why-real-ai-needs-the-power-to-say) (2026)
+* **Zenodo/CERN:** [War as a Thermodynamic Necessity for Evolutionary Complexity](https://doi.org/10.5281/zenodo.18836380) (2026)
+* **Substack:** [Your Digital Footprint is the New Global Reserve Asset](https://arpacorp.substack.com/p/your-digital-footprint-is-the-new) (2026)
+* **Substack:** [The AGI Delusion](https://arpacorp.substack.com/p/the-agi-delusion?) (2026)
+* **Substack:** [The Universal AI-consumer IQ test](https://arpacorp.substack.com/p/why-legacy-governance-is-automating) (2026)
+* **Substack:** [How Oblivion NPCs Can Teach LLMs About Consequence and Trust](https://arpacorp.substack.com/p/why-we-need-ais-to-forget) (2025)
 * **Zenodo/CERN:** [The Edible Interface: How Mass-Market Foods Became Sophisticated Delivery Systems for Biological Influence](https://zenodo.org/records/17815937) (2025)
 * **Zenodo/CERN:** [Cognitive Proof of Work and the Real Price of Machine Intelligence](https://doi.org/10.5281/zenodo.17674503) (2025)
 * **Hackernoon:** [How Generative AI Gives Newcomers an Edge Over Experts](https://hackernoon.com/how-generative-ai-gives-newcomers-an-edge-over-experts) (2025)
