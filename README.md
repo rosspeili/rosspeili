@@ -9,17 +9,15 @@ Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CO
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
 * **[Rooms](https://github.com/arpahls/rooms):** A secure, local-first Python framework for orchestrating complex multi-agent think tanks with dynamic expertise-weighted routing.
 * **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
-* **[arpa.chat](https://arpa.chat):** No-prompt, multimodal AI platform.
-* **[ΌΨΗ](https://github.com/arpahls/opsie):** A Self-Centered Intelligence prototype.
-* **[H3](https://github.com/arpahls/hermes3):** Advanced NLP-enabled Web3 Handler.
+* **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
 
-**Internal R&D:** Experimenting with models for DNA analysis, Quantum Computing, XR, Media Gen, and other emerging domains.
+**Internal R&D:** Experimenting with AI models and logical systems for DNA analysis, Quantum Computing, Biosecurity, Storage Management, XR, Media Gen, and other emerging domains.
 
 ---
 
 **Background**
 
-A decade of deep experience in the Web3/Blockchain industry across startups, VCs, and enterprises like **CertiK**, **Outlier Ventures**, and **DappRadar**. My work has spanned everything from smart contract architecture (NFTs, RWAs, DIDs) and tokenomics to contributing to the EU's MiCA regulatory framework. This unique blend of technical expertise and business acumen allows me to build and lead at the edge of technology. Self-taught AI dev with over 20+ models built and sold to enterprises.
+Multidisciplinary technologist with an asymmetric background.
 
 ---
 
