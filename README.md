@@ -16,11 +16,11 @@ Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CO
 **Projects:**
 
 * **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/qsp-pennylane-demo):** Training Quantum Signal Processing phase angles from scratch using JAX gradient descent and PennyLane.
-* **[Find The Flag](https://github.com/rosspeili/find-the-flag):** A modular, high-performance decision tree classification system designed to analyze and predict country characteristics based on their national flags.
-* **[Tennis LR ATP](https://github.com/rosspeili/tennis-atp-project):** This project applies Linear Regression techniques to analyze data from the Association of Tennis Professionals (ATP).
+* **[Tree Classifiaction](https://github.com/rosspeili/find-the-flag):** A modular, high-performance decision tree classification system designed to analyze and predict country characteristics based on their national flags.
+* **[Linear Regression](https://github.com/rosspeili/tennis-atp-project):** This project applies Linear Regression techniques to analyze data from the Association of Tennis Professionals (ATP).
 * **[QHack 2023 Coding Challenge](https://github.com/rosspeili/QHack2023_Coding_Challenge):** Xanadu QHack 2023 Coding Challenge using Quntum computing and Google AlphaFold for protein folding predictions.
-* **[CFD](https://github.com/ARPAHLS/cfd):** An Enterprise-Grade Credit Card Fraud Detection System.
-* **[Web3 ASP](https://github.com/ARPAHLS/web3-asp):** Web3 ASP is a Chrome extension that acts as your personal Web3 security analyst, watching your back as you explore the blockchain ecosystem.
+* **[Weighted Random Forest and Gradient Boosting classifiers](https://github.com/ARPAHLS/cfd):** An Enterprise-Grade Credit Card Fraud Detection System.
+* **[Web3 Security Chrome Extension](https://github.com/ARPAHLS/web3-asp):** Web3 ASP is a Chrome extension that acts as your personal Web3 security analyst, watching your back as you explore the blockchain ecosystem.
 
 **For Private Projects, and Enterprise Integrations:** Contact me at r1@arpacorp.net.
 
