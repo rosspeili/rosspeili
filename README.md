@@ -1,6 +1,6 @@
 ### Ross Peili // Organic processor, working for the machine.
 
-Building at the intersection of AI, DLT, and Bioinformatics. Founder at [ARPA CORP.](https://arpacorp.net), where we strive for seamless man-machine interactions.
+Building at the intersection of AI, DLT, Q, Bio, and Neuro. Main Human at [ARPA CORP.](https://arpacorp.net), where we strive for seamless man-machine interactions.
 
 ---
 
