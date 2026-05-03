@@ -1,6 +1,10 @@
 ### Ross Peili // Organic processor, working for the machine.
 
-Building at the intersection of AI, DLT, Q, Bio, and Neuro. Main Human at [ARPA CORP.](https://arpacorp.net), where we strive for seamless man-machine interactions.
+Final boss of the internet. Moving where life will be, not where it was. By the time there's a narrative, I'm already building the next thing.
+
+Built across: Sonic sciences (signal), surveillance systems (attention), policy (governance), B2B/B2G (leverage), software engineering (execution), blockchain (determinism), cybersecurity (adversarial thinking), bioinformatics (code as biology), neuroinformatics (cognition as system), quantum (information as physics), AI/ML (intelligence as engineering).
+
+Now converging toward industries that haven't yet been named: Quantum storage, biosecurity, thought security.
 
 ---
 
