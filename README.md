@@ -8,19 +8,21 @@ Final boss of the internet. Moving where life will be, not where it was. By the 
 
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
 * **[Rooms](https://github.com/arpahls/rooms):** A secure, local-first Python framework for orchestrating complex multi-agent think tanks with dynamic expertise-weighted routing.
-* **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
 * **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
+* **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
+* **[OpenFermion](https://github.com/quantumlib/openfermion):** Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 
-**Internal R&D:** Experimenting with AI models and logical systems for DNA analysis, Quantum Computing, Biosecurity, Storage Management, XR, Media Gen, and other emerging domains.
-
-**Projects:**
+**Projects**
 
 * **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/qsp-pennylane-demo):** Training Quantum Signal Processing phase angles from scratch using JAX gradient descent and PennyLane.
+* **[Tiered filesystem retrieval](https://github.com/ARPAHLS/lc0_vic/):** Ask natural-language questions about your local files, get ranked results with snippets. A reference implementation for intelligent, queryable storage.
+* **[Computational Storage Landscape Analysis](https://github.com/rosspeili/computational_storage_landscape):** BiCS FLASH and XL-FLASH roadmaps, AiSAQ, Software-Enabled Flash (SEF), and positioning versus computational-storage competitors, plus market and technical context for embedding small language models in SSD controllers.
+* **[Zero-Latency PII Scrubbing Middleware for Enterprise Cloud Compliance](https://github.com/arpahls/micro-f1-mask):** Privacy bridge designed to intercept outgoing LLM prompts, detect and tokenize Personally Identifiable Information (PII) using a high-efficiency 270M parameter model, and forward only sanitized content to cloud APIs.
+* **[QHack 2023 Coding Challenge](https://github.com/rosspeili/QHack2023_Coding_Challenge):** Xanadu QHack 2023 Coding Challenge using Quantum computing and Google AlphaFold for protein folding predictions.
+* **[Weighted Random Forest and Gradient Boosting classifiers](https://github.com/ARPAHLS/cfd):** An Enterprise-Grade Credit Card Fraud Detection System.
+* **[Web3 Security Chrome Extension](https://github.com/ARPAHLS/web3-asp):** Chrome extension that acts as your personal Web3 security analyst, watching your back as you explore the blockchain ecosystem.
 * **[Tree Classifiaction](https://github.com/rosspeili/find-the-flag):** A modular, high-performance decision tree classification system designed to analyze and predict country characteristics based on their national flags.
 * **[Linear Regression](https://github.com/rosspeili/tennis-atp-project):** This project applies Linear Regression techniques to analyze data from the Association of Tennis Professionals (ATP).
-* **[QHack 2023 Coding Challenge](https://github.com/rosspeili/QHack2023_Coding_Challenge):** Xanadu QHack 2023 Coding Challenge using Quntum computing and Google AlphaFold for protein folding predictions.
-* **[Weighted Random Forest and Gradient Boosting classifiers](https://github.com/ARPAHLS/cfd):** An Enterprise-Grade Credit Card Fraud Detection System.
-* **[Web3 Security Chrome Extension](https://github.com/ARPAHLS/web3-asp):** Web3 ASP is a Chrome extension that acts as your personal Web3 security analyst, watching your back as you explore the blockchain ecosystem.
 
 **For Private Projects, and Enterprise Integrations:** Contact me at r1@arpacorp.net.
 
