@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/ross_peili_directory_splash.png" width="420" alt="Ross Peili Directory Splash">
 <br></br>
   *A centralized index of Github Repos, Publications, OpenSource Contributions, and more.*
+
+  [Publications](./publications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---
@@ -89,4 +91,6 @@ While these are kept private for security and confidentiality, I occasionally gr
 
 ### Media & Publications
 
-A dedicated, separate directory for my publications, technical writing, audible specimens, and media appearances is currently being indexed and will be published soon.
+Browse:
+- [Publications](./publications.md)
+- [Audible Specimens](./audible_specimens.md)
