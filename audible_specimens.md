@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/ross_peili_directory_splash.png" width="420" alt="Ross Peili Directory Splash">
+  <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/directory_aud.png" width="420" alt="Ross Peili Directory Splash">
 <br></br>
   *An index of audible specimen releases, playlists, and jams.*
 
