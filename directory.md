@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/ross_peili_directory_splash.png" width="420" alt="Ross Peili Directory Splash">
+  <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/directory_os.png" width="420" alt="Ross Peili Directory Splash">
 <br></br>
   *A centralized index of Github Repos, Publications, OpenSource Contributions, and more.*
 
