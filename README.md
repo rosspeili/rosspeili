@@ -4,7 +4,7 @@ Final boss of the internet. Moving where life will be, not where it was. By the 
 
 ---
 
-Explore the full index of repos, projects, pubs, and more in [directory.md](./directory.md).
+Explore the full index of repos, projects, pubs, and more in **[directory.md](./directory.md)**.
 
 **Currently Contributing**
 
