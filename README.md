@@ -4,6 +4,8 @@ Final boss of the internet. Moving where life will be, not where it was. By the 
 
 ---
 
+Explore the full index of repos, projects, pubs, and more in [directory.md](./directory.md).
+
 **Currently Contributing**
 
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
@@ -49,12 +51,12 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 
 **Certifications & Learning**
 
-Check LinkedIn for a centralized source of credentials as of 2026. Although not everything is there, it is a good start. 
+Check LinkedIn (above) for a centralized source of credentials as of 2026.
 
 ---
 
 **Publications & Writing**
 
-Written over a thousand pieces across various media outlets, blogs, and web3 pubs. Released audible specimens under a dozen international labels, NFT contracts, and self-released. Check http://ζω.online, or https://rosspeili.com for entries into the various rabbit holes. I also write at Fortune, Dev.to, Hackernoon, Paragraph (ex. Mirror), and more.
+Written over a thousand pieces across various media outlets, blogs, and web3 pubs. Released audible specimens under a dozen international labels, NFT contracts, and self-released. Check [http://ζω.online](http://ζω.online), or https://rosspeili.com for entries into the various rabbit holes. I also write at Fortune, Dev.to, Hackernoon, Paragraph (ex. Mirror), and more.
 
 ---
