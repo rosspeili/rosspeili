@@ -11,6 +11,7 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
 * **[Rooms](https://github.com/arpahls/rooms):** A secure, local-first Python framework for orchestrating complex multi-agent think tanks with dynamic expertise-weighted routing.
 * **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
+* **[Qiskit](https://github.com/qiskit/qiskit):** Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 * **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
 * **[OpenFermion](https://github.com/quantumlib/openfermion):** Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 * **[Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder):** Search-based decoder for quantum error correction (QEC) written in C++ and Python.
@@ -32,9 +33,9 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 
 Multidisciplinary technologist with an asymmetric background.
 
-Built across Sonic sciences, advanced surveillance systems, EU policy, B2B/B2G, software engineering, blockchain & smart contracts, cybersecurity & tech audits, bioinformatics & genomics, neuroinformatics & bci, quantum domains, AI/ML +++.
+Built across sonic sciences, advanced surveillance systems, EU policy, B2B/B2G, software engineering, blockchain & smart contracts, cybersecurity & tech audits, bioinformatics & genomics, neuroinformatics & bci, quantum domains, AI/ML +
 
-Now converging toward industries that haven't yet been named: Quantum storage, biosecurity, thought security.
+Now converging toward industries that haven't yet been named, say Quantum storage mapping, biosecurity, thought security.
 
 ---
 
@@ -46,17 +47,5 @@ My door is open for compelling gigs, open-source contributions, and joint projec
 * **Substack:** [arpacorp](https://arpacorp.substack.com)
 * **LinkedIn:** [/in/ross-peili](https://linkedin.com/in/ross-peili)
 * **Silly Website:** [ζω.online](http://ζω.online)
-
----
-
-**Certifications & Learning**
-
-Check LinkedIn (above) for a centralized source of credentials as of 2026.
-
----
-
-**Publications & Writing**
-
-Written over a thousand pieces across various media outlets, blogs, and web3 pubs. Released audible specimens under a dozen international labels, NFT contracts, and self-released. Check [http://ζω.online](http://ζω.online), or https://rosspeili.com for entries into the various rabbit holes. I also write at Fortune, Dev.to, Hackernoon, Paragraph (ex. Mirror), and more.
 
 ---
