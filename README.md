@@ -18,7 +18,7 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 
 **Recent Highlighted Projects**
 
-* **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/qsp-pennylane-demo):** Training Quantum Signal Processing phase angles from scratch using JAX gradient descent and PennyLane.
+* **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/trainable-qsp-angles):** Training Quantum Signal Processing phase angles from scratch using JAX gradient descent and PennyLane.
 * **[Low-DRAM, storage-aware semantic search](https://github.com/ARPAHLS/vic_aisaq_demo):** VIC-style tiered retrieval demo with native KIOXIA AiSAQ for low-DRAM, storage-aware semantic search.
 * **[Tiered filesystem retrieval framework](https://github.com/ARPAHLS/lc0_vic/):** Ask natural-language questions about your local files, get ranked results with snippets. A reference implementation for intelligent, queryable storage.
 * **[Zero-Latency PII Scrubbing Middleware for Enterprise Cloud Compliance](https://github.com/arpahls/micro-f1-mask):** Privacy bridge designed to intercept outgoing LLM prompts, detect and tokenize Personally Identifiable Information (PII) using a high-efficiency 270M parameter model, and forward only sanitized content to cloud APIs.
