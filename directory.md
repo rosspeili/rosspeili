@@ -41,7 +41,7 @@
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
-| **[qsp-pennylane-demo](https://github.com/rosspeili/qsp-pennylane-demo)** | A PennyLane QML Demo that demonstrates how Quantum Signal Processing phase angles can be trained from random initialization using JAX and Optax. | `quantum`, `pennylane`, `qsp`, `qml`, `jax`, `gradient-descent`, `chebyshev-approximation`, `optax` |
+| **[trainable-qsp-angles](https://github.com/rosspeili/trainable-qsp-angles)** | Reproducible QSP benchmark: gradient-learned phase angles on a JAX flat circuit vs mapped analytic solvers. | `quantum`, `pennylane`, `qsp`, `qml`, `jax`, `gradient-descent`, `chebyshev-approximation`, `optax` |
 
 ---
 
