@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rosspeili/rosspeili/main/directory_os.png" width="420" alt="Ross Peili Directory Splash">
 <br></br>
-  *A centralized index of Github Repos, Publications, OpenSource Contributions, and more.*
+  *A centralized index of Github Repos, OpenSource Contributions, and more.*
 
   [Publications](./publications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
