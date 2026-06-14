@@ -34,6 +34,7 @@
 | **[PII Masker](https://github.com/ARPAHLS/skillware/blob/main/docs/skills/pii_masker.md)** | High-precision, local Personally Identifiable Information detection and redaction using the ARPA micro-f1-mask model. | `compliance`, `security`, `privacy`, `skillware` |
 | **[MiCA Module](https://github.com/ARPAHLS/skillware/blob/main/docs/skills/mica_module.md)** | Self-contained local Policy Enforcement and RAG engine strictly adhering to MiCA crypto-asset regulation. | `compliance`, `legal`, `regulation`, `web3`, `crypto`, `skillware` |
 | **[TOS Evaluator](https://github.com/ARPAHLS/skillware/blob/main/docs/skills/tos_evaluator.md)** | Local-first evaluation of robots.txt and website legal pages to decide whether an intended automated action appears permissible. | `compliance`, `security`, `web-scrapping`, `legal`, `skillware` |
+| **[Issue Resolver](https://github.com/ARPAHLS/skillware/blob/main/docs/skills/issue_resolver.md)** | A developer-tools skill that accepts any GitHub issue URL and guides the calling agent through a structured resolution workflow. | `dev_tools`, `git`, `coding`, `workflow`, `skillware` |
 
 ---
 
