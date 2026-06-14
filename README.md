@@ -18,6 +18,7 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 
 **Recent Highlighted Projects**
 
+* **[Variational Quantum Simulation of Antiferromagnetic Hamiltonians](https://github.com/ARPAQLS/spinq-vqe):** VQE simulation of the Kagome antiferromagnet (Mn₃Sn) — HEA & MERA ansatze, entanglement entropy, ED benchmarks, SOC QAOA.
 * **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/trainable-qsp-angles):** Reproducible QSP benchmark: gradient-learned phase angles on a JAX flat circuit vs mapped analytic solvers.
 * **[Low-DRAM, storage-aware semantic search](https://github.com/ARPAHLS/vic_aisaq_demo):** VIC-style tiered retrieval demo with native KIOXIA AiSAQ for low-DRAM, storage-aware semantic search.
 * **[Tiered filesystem retrieval framework](https://github.com/ARPAHLS/lc0_vic/):** Ask natural-language questions about your local files, get ranked results with snippets. A reference implementation for intelligent, queryable storage.
