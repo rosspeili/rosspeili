@@ -42,6 +42,7 @@
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
 | **[trainable-qsp-angles](https://github.com/rosspeili/trainable-qsp-angles)** | Reproducible QSP benchmark: gradient-learned phase angles on a JAX flat circuit vs mapped analytic solvers. | `quantum`, `pennylane`, `qsp`, `qml`, `jax`, `gradient-descent`, `chebyshev-approximation`, `optax` |
+| **[spinq-vqe](https://github.com/ARPAQLS/spinq-vqe)** | VQE simulation of the Kagome antiferromagnet (Mn₃Sn) — HEA & MERA ansatze, entanglement entropy, ED benchmarks, SOC QAOA. | `quantum`, `pennylane`, `qml`, `kagome`, `jax`, `entanglement`, `spintronics`, `vqe`, `antiferromagnetism` |
 
 ---
 
