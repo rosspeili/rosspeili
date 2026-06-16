@@ -10,10 +10,11 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 
 * **[Skillware](https://github.com/arpahls/skillware):** An open-source framework and registry for modular, actionable Agent capabilities.
 * **[Rooms](https://github.com/arpahls/rooms):** A secure, local-first Python framework for orchestrating complex multi-agent think tanks with dynamic expertise-weighted routing.
-* **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
-* **[Qiskit](https://github.com/qiskit/qiskit):** Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
-* **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
 * **[OpenFermion](https://github.com/quantumlib/openfermion):** Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
+* **[Qiskit](https://github.com/qiskit/qiskit):** Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
+* **[TensorFlow Quantum](https://github.com/tensorflow/quantum):** High-performance Python framework for hybrid quantum-classical machine learning.
+* **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
+* **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
 * **[Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder):** Search-based decoder for quantum error correction (QEC) written in C++ and Python.
 
 **Recent Highlighted Projects**
