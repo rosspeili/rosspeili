@@ -3,7 +3,7 @@
 <br></br>
   *An index of selected publications, essays, and technical writing.*
 
-  [Code](./directory.md) · [Audible Specimens](./audible_specimens.md)
+  [Code](./directory.md) · [Contributions](./contributions.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---
@@ -13,6 +13,8 @@
 | Moniker/Alias | Publication | Outlet | Topics | Year | Format |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ross Peili | **[Computational Storage Landscape](https://github.com/rosspeili/computational_storage_landscape)** | Github | `ssd`, `nand`, `ai-storage`, `vector-search` | 2026 | `report` |
+| Vladimiros Peilivanidis | **[Learning Quantum Signal Processing Phase Angles via Gradient Descent](https://doi.org/10.5281/zenodo.20645402)** | Zenodo/CERN | `qsp`, `qsvt`, `qml`, `gradient-descent`, `chebyshev-polynomial-approximation`, `jax`, `barren-plateaus`, `quantum-computing` | 2026 | `PDF` |
+| Ross Peili | **[AI Isn't the Revolution, Owning It Is](https://substack.com/@rosspeili/p-198135744)** | Substack | `ai-independence`, `sovereign-ai`, `local-ai`, `digital-twins`, `agi` | 2026 | `article` |
 | Vladimiros Peilivanidis | **[War as a Thermodynamic Necessity for Evolutionary Complexity](https://doi.org/10.5281/zenodo.18836380)** | Zenodo/CERN | `complexity`, `kinetic-arbitration`, `accelerationism`, `technopolitics` | 2026 | `PDF` |
 | Ross Peili | **[Training QSP Phase Angles Directly with Gradient Descent](https://dev.to/rosspeili/training-qsp-phase-angles-directly-with-gradient-descent-544i)** | Dev.to | `quantum`, `qsp`, `jax`, `optax`, `pennylane`, `ai`, `qml` | 2026 | `article` |
 | Vladimiros Peilivanidis | **[Why Legacy Governance is Automating Its Own Obsolescence](https://www.linkedin.com/pulse/why-legacy-governance-automating-its-own-obsolescence-peilivanidis-jofuf?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3By6RR8EfaRK2Lv3r3JmUnfg%3D%3D)** | LinkedIn | `ai`, `arpa-wraps`, `enterprise-ai`, `digital-transformation` | 2026 | `newsletter` |

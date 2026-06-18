@@ -3,7 +3,7 @@
 <br></br>
   *A centralized index of Github Repos, OpenSource Contributions, and more.*
 
-  [Publications](./publications.md) · [Audible Specimens](./audible_specimens.md)
+  [Contributions](./contributions.md) · [Publications](./publications.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---
@@ -94,5 +94,7 @@ While these are kept private for security and confidentiality, I occasionally gr
 ### Media & Publications
 
 Browse:
+- [Contributions](./contributions.md)
 - [Publications](./publications.md)
+- [Certifications](./certifications.md)
 - [Audible Specimens](./audible_specimens.md)
