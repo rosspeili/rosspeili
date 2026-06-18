@@ -3,7 +3,7 @@
 <br></br>
   *An index of selected publications, essays, and technical writing.*
 
-  [Code](./directory.md) · [Contributions](./contributions.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
+  [Repo Directory](./directory.md) · [Contributions](./contributions.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---

@@ -3,7 +3,7 @@
 <br></br>
   *An index of open-source pull requests and upstream contributions.*
 
-  [Code](./directory.md) · [Publications](./publications.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
+  [Repo Directory](./directory.md) · [Publications](./publications.md) · [Certifications](./certifications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---

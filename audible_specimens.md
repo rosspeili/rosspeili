@@ -3,7 +3,7 @@
 <br></br>
   *An index of audible specimen releases, playlists, and jams.*
 
-  [Code](./directory.md) · [Contributions](./contributions.md) · [Publications](./publications.md) · [Certifications](./certifications.md)
+  [Repo Directory](./directory.md) · [Contributions](./contributions.md) · [Publications](./publications.md) · [Certifications](./certifications.md)
 </div>
 
 ---

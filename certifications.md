@@ -3,7 +3,7 @@
 <br></br>
   *An index of certifications, credentials, and completed coursework.*
 
-  [Code](./directory.md) · [Contributions](./contributions.md) · [Publications](./publications.md) · [Audible Specimens](./audible_specimens.md)
+  [Repo Directory](./directory.md) · [Contributions](./contributions.md) · [Publications](./publications.md) · [Audible Specimens](./audible_specimens.md)
 </div>
 
 ---
@@ -35,7 +35,7 @@
 For the full credentials and educational history, visit **[LinkedIn](https://linkedin.com/in/ross-peili)**.
 
 Browse:
-- [Code](./directory.md)
+- [Repo Directory](./directory.md)
 - [Contributions](./contributions.md)
 - [Publications](./publications.md)
 - [Audible Specimens](./audible_specimens.md)
