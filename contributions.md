@@ -8,6 +8,8 @@
 
 ---
 
+[All PRs](https://github.com/pulls/authored?q=is%3Apr+author%3A%40me+state%3Aclosed+archived%3Afalse+sort%3Aupdated-desc)
+
 ### Quantum
 
 | Repository | Organization | Pull Requests | Tags |
