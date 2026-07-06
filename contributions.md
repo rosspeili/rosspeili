@@ -23,6 +23,9 @@
 | **[TensorFlow Quantum](https://github.com/tensorflow/quantum)** | [TensorFlow](https://github.com/tensorflow) | [All PRs by rosspeili](https://github.com/tensorflow/quantum/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `tensorflow`, `qml`, `hybrid` |
 | **[PennyLane](https://github.com/PennyLaneAI/pennylane)** | [PennyLane AI](https://github.com/PennyLaneAI) | [All PRs by rosspeili](https://github.com/pennylaneai/pennylane/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qml`, `differentiable`, `python` |
 | **[spinq-vqe](https://github.com/ARPAQLS/spinq-vqe)** | [ARPAQLS](https://github.com/ARPAQLS) | [All PRs by rosspeili](https://github.com/arpaqls/spinq-vqe/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `vqe`, `pennylane`, `kagome` |
+| **[spintronic-qrc](https://github.com/ARPAQLS/spintronic-qrc)** | [ARPAQLS](https://github.com/ARPAQLS) | [All PRs by rosspeili](https://github.com/arpaqls/spintronic-qrc/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `spintronics`, `reservoir computing`, `pennylane`, `kagome` |
+| **[QuTiP QTRL](https://github.com/qutip/qutip-qtrl)** | [QuTiP](https://github.com/Qutip) | [All PRs by rosspeili](https://github.com/qutip/qutip-qtrl/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qutip`, `optimization`, `qml` |
+| **[Qiskit IBM Runtime](https://github.com/Qiskit/qiskit-ibm-runtime)** | [Qiskit](https://github.com/Qiskit) | [All PRs by rosspeili](https://github.com/qiskit/qiskit-ibm-runtime/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qiskit`, `ibm`, `runtime` |
 
 ---
 
@@ -33,6 +36,7 @@
 | **[skillware](https://github.com/ARPAHLS/skillware)** | [ARPAHLS](https://github.com/ARPAHLS) | [All PRs by rosspeili](https://github.com/arpahls/skillware/pulls?q=is%3Apr+author%3Arosspeili) | `ai-agents`, `llm-tools`, `skillware`, `python` |
 | **[rooms](https://github.com/ARPAHLS/rooms)** | [ARPAHLS](https://github.com/ARPAHLS) | [All PRs by rosspeili](https://github.com/arpahls/rooms/pulls?q=is%3Apr+author%3Arosspeili) | `multi-agent`, `orchestration`, `llm`, `python` |
 | **[OPSIE](https://github.com/ARPAHLS/OPSIE)** | [ARPAHLS](https://github.com/ARPAHLS) | [All PRs by rosspeili](https://github.com/arpahls/opsie/pulls?q=is%3Apr+author%3Arosspeili) | `ai`, `agents`, `rag`, `mcp` |
+| **[PR Agent](https://github.com/The-PR-Agent/pr-agent)** | [The PR Agent](https://github.com/The-PR-Agent) | [All PRs by rosspeili](https://github.com/The-PR-Agent/pr-agent/pulls?q=is%3Apr+author%3Arosspeili) | `ai`, `agents`, `dev-tools`, `code-review` |
 
 ---
 
