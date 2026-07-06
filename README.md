@@ -1,6 +1,6 @@
 ### Ross Peili // Organic processor, working for the machine.
 
-Final boss of the internet. Moving where life will be, not where it was. By the time there's a narrative, I'm already building the next thing.
+Final boss of the internet. Moving where life will be, not where it was. Highly passionate about QML & AI.
 
 ---
 
@@ -37,13 +37,13 @@ Multidisciplinary technologist with an asymmetric background.
 
 Built across sonic sciences, advanced surveillance systems, EU policy, B2B/B2G, software engineering, blockchain & smart contracts, cybersecurity & tech audits, bioinformatics & genomics, neuroinformatics & bci, quantum domains, AI/ML +
 
-Now converging toward industries that haven't yet been named, say Quantum storage mapping, biosecurity, thought security.
+Trying to converge toward industries that haven't yet been named, say Quantum storage mapping, biosecurity, thought security, among others.
 
 ---
 
 **Collaboration & Inquiries**
 
-My door is open for compelling gigs, open-source contributions, and joint projects. If you're interested in any of my private repositories, I'm happy to grant access—just reach out and explain your interest.
+My door is open for compelling gigs, open-source contributions, and joint projects. If you're interested in any of my private repositories, I'm happy to grant access, just reach out and explain your interest.
 
 * **Email:** [R1@ARPACORP.NET](mailto:R1@ARPACORP.NET)
 * **Substack:** [arpacorp](https://arpacorp.substack.com)
