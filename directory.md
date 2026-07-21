@@ -70,6 +70,7 @@
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
+| **[hppm](https://github.com/ARPAHLS/hppm)** | Offline Task Tracker & Project Manager — No cloud, no login, no data sharing. | `markdown`, `productivity`, `project-manager`, `task-tracker` |
 | **[vic_aisaq_demo](https://github.com/ARPAHLS/vic_aisaq_demo)** | VIC-style tiered retrieval demo with native KIOXIA AiSAQ for low-DRAM, storage-aware semantic search. | `semantic-search`, `edge-ai`, `computational-storage`, `rag` |
 | **[lc0_vic](https://github.com/ARPAHLS/lc0_vic)** | Tiered filesystem retrieval (L0/L1/L2) with vic CLI, embeddings, and optional skillware bridge. | `retrieval`, `filesystem`, `vector-search`, `local-first` |
 | **[computational_storage_landscape](https://github.com/rosspeili/computational_storage_landscape)** | Computational storage × AI inference landscape. Ongoing analysis, diagrams, and references (TinyLM, NAND, vector/RAG context). | `ssd`, `nand`, `flash-memory`, `rag`, `kioxia`  |
