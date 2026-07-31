@@ -26,6 +26,7 @@
 | **[spintronic-qrc](https://github.com/ARPAQLS/spintronic-qrc)** | [ARPAQLS](https://github.com/ARPAQLS) | [All PRs by rosspeili](https://github.com/arpaqls/spintronic-qrc/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `spintronics`, `reservoir computing`, `pennylane`, `kagome` |
 | **[QuTiP QTRL](https://github.com/qutip/qutip-qtrl)** | [QuTiP](https://github.com/Qutip) | [All PRs by rosspeili](https://github.com/qutip/qutip-qtrl/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qutip`, `optimization`, `qml` |
 | **[Qiskit IBM Runtime](https://github.com/Qiskit/qiskit-ibm-runtime)** | [Qiskit](https://github.com/Qiskit) | [All PRs by rosspeili](https://github.com/qiskit/qiskit-ibm-runtime/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qiskit`, `ibm`, `runtime` |
+| **[Chromobius](https://github.com/quantumlib/chromobius/)** | [QuantumLib](https://github.com/quantumlib) | [All PRs by rosspeili](https://github.com/quantumlib/chromobius/pulls?q=is%3Apr+author%3Arosspeili) | `quantum`, `qec`, `color-code`, `qml` |
 
 ---
 
