@@ -13,12 +13,11 @@ Explore the full index of repos, projects, pubs, and more in **[directory.md](./
 * **[OpenFermion](https://github.com/quantumlib/openfermion):** Python package for compiling and analyzing quantum algorithms to simulate electronic structures.
 * **[Qiskit](https://github.com/qiskit/qiskit):** Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 * **[TensorFlow Quantum](https://github.com/tensorflow/quantum):** High-performance Python framework for hybrid quantum-classical machine learning.
-* **[Pennylane](https://github.com/PennyLaneAI/pennylane):** PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry.
 * **[Cirq](https://github.com/quantumlib/cirq):** Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits.
-* **[Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder):** Search-based decoder for quantum error correction (QEC) written in C++ and Python.
 
 **Recent Highlighted Projects**
 
+* **[AVATAR](https://github.com/arpahls/avatar):** VRM companion that lipsyncs and animates to AI, local LLMs, or any audio.
 * **[Variational Quantum Simulation of Antiferromagnetic Hamiltonians](https://github.com/ARPAQLS/spinq-vqe):** VQE simulation of the Kagome antiferromagnet (Mn₃Sn) — HEA & MERA ansatze, entanglement entropy, ED benchmarks, SOC QAOA.
 * **[QSP phase angles with JAX gradient descent](https://github.com/rosspeili/trainable-qsp-angles):** Reproducible QSP benchmark: gradient-learned phase angles on a JAX flat circuit vs mapped analytic solvers.
 * **[Low-DRAM, storage-aware semantic search](https://github.com/ARPAHLS/vic_aisaq_demo):** VIC-style tiered retrieval demo with native KIOXIA AiSAQ for low-DRAM, storage-aware semantic search.
