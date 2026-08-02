@@ -81,6 +81,7 @@
 
 | Repository | Description | Tags |
 | :--- | :--- | :--- |
+| **[avatar](https://github.com/ARPAHLS/avatar)** | VRM companion that lipsyncs and animates to AI, local LLMs, or any audio. | `visualization`, `ai-avatar`, `companion`, `lip-sync` |
 | **[interactiveanimations](https://github.com/ARPAHLS/interactiveanimations)** | A collection of high-fidelity, physics-based interactive animations. | `visualization`, `simulations`, `ui-components`, `physics-3d` |
 
 ---
